@@ -11,19 +11,19 @@ export default function Contact() {
     },
     {
       name: 'Reddit',
-      url: 'https://reddit.com/u/Trytonottry',
+      url: 'https://www.reddit.com/user/CrazyGeneral3301',
       icon: SiReddit,
       color: 'hover:text-orange-600'
     },
     {
       name: 'Telegram',
-      url: 'https://t.me/trytonottry',
+      url: 'https://t.me/moriartyyyyy',
       icon: SiTelegram,
       color: 'hover:text-blue-500'
     },
     {
       name: 'Email',
-      url: 'mailto:trytonottry@example.com',
+      url: 'mailto:popovsemyona@gmail.com',
       icon: MdEmail,
       color: 'hover:text-red-500'
     }
