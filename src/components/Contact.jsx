@@ -1,9 +1,5 @@
-import {
-  SiGithub,
-  SiReddit,
-  SiTelegram,
-  MdEmail
-} from 'react-icons/si';
+import { SiGithub, SiReddit, SiTelegram } from 'react-icons/si';
+import { MdEmail } from 'react-icons/md';
 
 export default function Contact() {
   const links = [
@@ -15,19 +11,19 @@ export default function Contact() {
     },
     {
       name: 'Reddit',
-      url: 'https://www.reddit.com/user/CrazyGeneral3301',
+      url: 'https://reddit.com/u/Trytonottry',
       icon: SiReddit,
       color: 'hover:text-orange-600'
     },
     {
       name: 'Telegram',
-      url: 'https://t.me/moriartyyyyy',
+      url: 'https://t.me/trytonottry',
       icon: SiTelegram,
       color: 'hover:text-blue-500'
     },
     {
       name: 'Email',
-      url: 'mailto:popovsemyona@gmail.com',
+      url: 'mailto:trytonottry@example.com',
       icon: MdEmail,
       color: 'hover:text-red-500'
     }
